@@ -1,2 +1,2 @@
-# pnacl
-The Pnacl installation package
+# Pnacl
+This is the Pnacl installation package
